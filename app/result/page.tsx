@@ -42,7 +42,7 @@ export default function ResultPage() {
               Поздравления! Завърши всички казуси.
             </h1>
             <p className="max-w-md text-sm leading-relaxed text-muted-foreground md:text-base text-pretty">
-              Placeholder: Преминахте през всичките {casesData.length} казуса за
+              Преминахте през всичките {casesData.length} казуса за
               граждански и политически права. Ето обобщение на темите, които
               разгледахте.
             </p>
@@ -82,21 +82,21 @@ export default function ResultPage() {
           {/* Info Box */}
           <div className="mb-8 rounded-2xl border border-primary/20 bg-primary/5 p-6">
             <h3 className="mb-2 text-base font-bold text-foreground">
-              Placeholder: Научи повече
+             Научи повече
             </h3>
             <p className="mb-4 text-sm leading-relaxed text-muted-foreground">
-              Placeholder: Европейската конвенция за правата на човека (ЕКПЧ) е
+             Европейската конвенция за правата на човека (ЕКПЧ) е
               международен договор, който защитава основните граждански и
               политически права на хората в Европа. Можете да научите повече на
               официалния сайт на Европейския съд по правата на човека.
             </p>
             <a
-              href="https://www.echr.coe.int/"
+              href="https://www.echr.coe.int/documents/d/echr/convention_bul"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary transition-colors hover:text-primary/80"
             >
-              Европейски съд по правата на човека
+              Европейска конвенция за правата на човека (ЕКПЧ)
               <ExternalLink className="h-3.5 w-3.5" />
             </a>
           </div>

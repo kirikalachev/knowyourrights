@@ -8,7 +8,7 @@ export default function HomePage() {
       <HeroSection />
       <footer className="border-t border-border py-6 text-center text-xs text-muted-foreground">
         <p>
-          Placeholder: Проект за образователни цели. Всички текстове са примерни и подлежат на замяна.
+          Проект на Кирил Калъчев XI "В"
         </p>
       </footer>
     </main>

@@ -17,7 +17,7 @@ export function Navbar() {
         >
           <Scale className="h-5 w-5 text-primary" />
           <span className="text-sm font-semibold tracking-tight md:text-base">
-            Права в Европа
+            Права в Европа 
           </span>
         </Link>
         {!isHome && (
